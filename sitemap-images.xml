@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <url>
+        <loc>https://plumbingarvadaco.com/</loc>
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/arvada-emergency-plumber-hero.jpg</image:loc>
+            <image:title>Emergency Plumber Arvada CO - 24/7 Service</image:title>
+            <image:caption>Professional emergency plumbing services in Arvada, Colorado with 30-minute response time</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+            <image:license>https://plumbingarvadaco.com/license</image:license>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/plumbing-services-arvada.jpg</image:loc>
+            <image:title>Professional Plumbing Services Arvada Colorado</image:title>
+            <image:caption>Comprehensive plumbing solutions including drain cleaning, water heater repair, and pipe replacement</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/water-heater-repair-arvada.jpg</image:loc>
+            <image:title>Water Heater Repair Installation Arvada</image:title>
+            <image:caption>Expert water heater repair and installation services for all brands and models</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/drain-cleaning-arvada.jpg</image:loc>
+            <image:title>Professional Drain Cleaning Arvada CO</image:title>
+            <image:caption>Advanced drain cleaning using hydro-jetting and camera inspection technology</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/licensed-plumber-arvada.jpg</image:loc>
+            <image:title>Licensed Insured Plumber Arvada Colorado</image:title>
+            <image:caption>Fully licensed and insured master plumbers serving Arvada and surrounding areas</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/plumbing-truck-arvada.jpg</image:loc>
+            <image:title>Plumbing Service Vehicle Arvada</image:title>
+            <image:caption>Fully equipped service vehicles ready for emergency plumbing calls in Arvada</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/pipe-repair-arvada.jpg</image:loc>
+            <image:title>Pipe Repair Replacement Arvada Colorado</image:title>
+            <image:caption>Expert pipe repair and replacement using modern materials and trenchless technology</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://plumbingarvadaco.com/images/toilet-repair-arvada.jpg</image:loc>
+            <image:title>Toilet Repair Installation Arvada</image:title>
+            <image:caption>Professional toilet repair and installation services for residential and commercial properties</image:caption>
+            <image:geo_location>Arvada, CO</image:geo_location>
+        </image:image>
+    </url>
+</urlset>

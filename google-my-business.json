@@ -1,0 +1,114 @@
+{
+  "business_profile": {
+    "name": "Plumbing Arvada & Drain Clean Expert",
+    "description": "Professional 24/7 emergency plumbing services in Arvada, Colorado. Licensed, insured, and highly rated plumbers specializing in drain cleaning, water heater repair, and emergency plumbing solutions. Serving Arvada, Westminster, Wheat Ridge, and surrounding areas with 30-minute response time.",
+    "categories": [
+      "Plumber",
+      "Emergency Plumbing Service",
+      "Drain Cleaning Service",
+      "Water Heater Repair Service",
+      "Pipe Repair Service"
+    ],
+    "address": {
+      "street": "6800 W 52nd Ave",
+      "city": "Arvada",
+      "state": "CO",
+      "postal_code": "80002",
+      "country": "US"
+    },
+    "phone": "(720) 508-5515",
+    "website": "https://plumbingarvadaco.com",
+    "hours": {
+      "monday": "00:00-23:59",
+      "tuesday": "00:00-23:59",
+      "wednesday": "00:00-23:59",
+      "thursday": "00:00-23:59",
+      "friday": "00:00-23:59",
+      "saturday": "00:00-23:59",
+      "sunday": "00:00-23:59"
+    },
+    "special_hours": {
+      "emergency_service": "24/7 Available",
+      "office_hours": "Monday-Friday 7AM-6PM, Weekend 8AM-5PM"
+    },
+    "services": [
+      "24/7 Emergency Plumbing",
+      "Drain Cleaning & Hydro Jetting",
+      "Water Heater Repair & Installation",
+      "Pipe Repair & Replacement",
+      "Toilet Repair & Installation",
+      "Fixture Installation",
+      "Sewer Line Repair",
+      "Leak Detection",
+      "Bathroom Plumbing",
+      "Kitchen Plumbing"
+    ],
+    "service_areas": [
+      "Arvada, CO",
+      "Westminster, CO",
+      "Wheat Ridge, CO",
+      "Lakewood, CO",
+      "Broomfield, CO",
+      "Golden, CO",
+      "Thornton, CO",
+      "Northglenn, CO"
+    ],
+    "attributes": [
+      "Licensed & Insured",
+      "Emergency Service Available",
+      "Free Estimates",
+      "Same Day Service",
+      "Upfront Pricing",
+      "Satisfaction Guaranteed",
+      "Master Plumbers",
+      "Local Family Owned"
+    ],
+    "payment_methods": ["Cash", "Check", "Credit Cards", "Debit Cards", "Financing Available"],
+    "photos": {
+      "logo": "https://plumbingarvadaco.com/images/plumbing-arvada-logo.png",
+      "cover": "https://plumbingarvadaco.com/images/arvada-emergency-plumber-hero.jpg",
+      "interior": [
+        "https://plumbingarvadaco.com/images/plumbing-office-arvada.jpg",
+        "https://plumbingarvadaco.com/images/plumbing-equipment-arvada.jpg"
+      ],
+      "exterior": [
+        "https://plumbingarvadaco.com/images/plumbing-truck-arvada.jpg",
+        "https://plumbingarvadaco.com/images/plumbing-storefront-arvada.jpg"
+      ],
+      "team": [
+        "https://plumbingarvadaco.com/images/plumber-team-arvada.jpg",
+        "https://plumbingarvadaco.com/images/master-plumber-arvada.jpg"
+      ],
+      "work": [
+        "https://plumbingarvadaco.com/images/drain-cleaning-work.jpg",
+        "https://plumbingarvadaco.com/images/water-heater-installation.jpg",
+        "https://plumbingarvadaco.com/images/pipe-repair-work.jpg"
+      ]
+    }
+  },
+  "posts": [
+    {
+      "type": "offer",
+      "title": "Emergency Plumbing Special - $50 Off",
+      "description": "Get $50 off your emergency plumbing service call. Available 24/7 with 30-minute response time in Arvada, CO.",
+      "call_to_action": "Call Now",
+      "button_url": "tel:+17205085515",
+      "image": "https://plumbingarvadaco.com/images/emergency-special-offer.jpg"
+    },
+    {
+      "type": "update",
+      "title": "Winter Plumbing Tips for Arvada Homeowners",
+      "description": "Protect your pipes this winter! Learn essential tips to prevent frozen pipes and costly repairs.",
+      "call_to_action": "Read More",
+      "button_url": "https://plumbingarvadaco.com/blog/winter-plumbing-tips"
+    },
+    {
+      "type": "event",
+      "title": "Free Plumbing Inspections This Month",
+      "description": "Schedule your free plumbing inspection to catch problems before they become emergencies.",
+      "start_date": "2024-01-01",
+      "end_date": "2024-01-31",
+      "call_to_action": "Schedule Now"
+    }
+  ]
+}
